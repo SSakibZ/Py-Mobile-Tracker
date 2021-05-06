@@ -1,4 +1,4 @@
 # Py-Mobile-Tracker
 
 
-<img src='sreenshot.png'></img>
+<img src='screenshot.png'></img>
