@@ -3,7 +3,7 @@
 <br>
 <br>
 <img src='screenshot.png'></img>
-<h3>Run this code to the country name and service operator of a mobile number 👾</h3>
+> **Run this code to the country name and service operator of a mobile number 👾**
 <br>
 <br>
 <h2>Such As: </h2>
